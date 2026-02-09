@@ -1,4 +1,4 @@
-# US Crime Clustering – USArrests Dataset
+# PCA and Clustering – USArrests Dataset
 
 ## Project Overview
 This project analyses crime data from the 50 US states using the **USArrests dataset** and applies **unsupervised learning techniques** to group states based on their crime profiles. The dataset contains information about violent crime rates (Murder, Assault, and Rape) and the percentage of urban population in each state.
